@@ -14,7 +14,7 @@ public class Day1 {
         int soma = 0;
 
         // lembrar que eh possivel ter multiplos de 3 e de 5 ao mesmo tempo, considera 1 vez soh, com o uso do OR.
-        for(int contador=1; contador<=10; contador++){
+        for(int contador=1; contador<=1000; contador++){
             if((contador % numeroTres == 0)||(contador % numeroCinco == 0)) {
                 soma = soma + contador;
                 System.out.println("Multiplo: " + contador + " | Soma acumulada: " + soma);
