@@ -2,6 +2,7 @@ package exercisesJava;
 
 public class Day7 {
     public static void main(String[] args) {
+        // prime numbers between 1 and 500
         // numeros primos só podem ser aqueles dividos por 1 e por ele mesmo
         // 0 e 1 não são primos
         // 2 é o único número par primo
