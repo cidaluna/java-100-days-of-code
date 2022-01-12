@@ -7,6 +7,7 @@ public class Day8 {
      * Day 8 - 100 Days of Code - Java
      * Escrever um programa que receba dois números e ao final mostre a soma,
      * subtração, multiplicação e a divisão dos números lidos
+     * sum, subtraction, multiplication and division
      */
 
     Scanner le = new Scanner(System.in);
