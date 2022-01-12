@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Day8 {
     public static void main(String[] args) {
     /*
-     * Day 8 - 100 Days of Code - Java 
+     * Day 8 - 100 Days of Code - Java
      * Escrever um programa que receba dois números e ao final mostre a soma,
      * subtração, multiplicação e a divisão dos números lidos
      */
