@@ -3,7 +3,8 @@ package exercisesJava;
 public class Day12 {
     public static void main(String[] args) {
         /*
-         * Day 12 - Calculate the sum of odd numbers between 300 and 450 which are divisible by 15
+         * Day 12 - Problem 12
+         * Calculate the sum of odd numbers between 300 and 450 which are divisible by 15
          * Soma dos numeros impares entre 300 e 450 e que são divisíveis por 15.
          */
         int soma = 0;
